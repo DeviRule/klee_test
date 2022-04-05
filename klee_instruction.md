@@ -1,7 +1,7 @@
 
 add the code snippet at the end of the re.c 
 ```C
-
+/* test re_match function */
 int main(int argc, char* argv[])
 {
   /* test input - a regex-pattern and a text string to search in */
